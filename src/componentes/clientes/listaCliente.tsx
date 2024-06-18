@@ -41,6 +41,17 @@ export default class ListaCliente extends Component<props> {
 
                 <div className="collection home">
                     <Link to ={'/Cliente'} className="collection-item pointer">Érick Awata</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Mariana Ribeiro</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Pedro Kajiya</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Ryan Seiji</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Mateus Madeira</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Enzo Sidney</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Maria Eduarda</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Abner Douglas</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Bruno Silvério</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Sandro Pimentel</Link>
+                    <Link to ={'/Cliente'} className="collection-item pointer">Julia Gonzalez</Link>
+
                 </div>
             </div>
         )

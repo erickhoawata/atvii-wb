@@ -22,7 +22,7 @@ export default class Servicos extends Component<props> {
         let estilo = `collection-item active  purple accent-2 ${this.props.tema}`
         return (
             <div className="containerServ">
-        <h2 className="nomeServ">Escova</h2>
+        <h2 className="nomeServ">Serviço</h2>
             <ul className="collapsible popout">
                 {/* Serviços */}
                 <li>

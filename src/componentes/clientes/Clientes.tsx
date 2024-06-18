@@ -20,7 +20,7 @@ export default class Cliente extends Component<props> {
     render() {
         return(
         <div className='containerlistagem'>
-        <h2 className='title'> Érick Awata </h2>
+        <h2 className='title'> Atualização dos Dados </h2>
             <div className="row center">
                 <div className="col s12">
                     <ul className="tabs-swipe-demo tabs tabsConsumo">

@@ -27,6 +27,9 @@ export default class ListaPedido extends Component<props> {
 
             <div className="collection home">
                 <Link to ={'/pedido'} className="collection-item pointer">Pedido1</Link>
+                <Link to ={'/pedido'} className="collection-item pointer">Pedido2</Link>
+                <Link to ={'/pedido'} className="collection-item pointer">Pedido3</Link>
+                <Link to ={'/pedido'} className="collection-item pointer">Pedido4</Link>
             </div>
 
         </div>
